@@ -5,12 +5,14 @@
   "dependencies": {
     "@material-ui/core": "^4.2.0",
     "@material-ui/styles": "^4.2.0",
+    "@reduxjs/toolkit": "^1.4.0",
     "axios": "^0.19.0",
     "history": "^4.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "^3.4.3",
+    "redux": "^4.0.5"
   },
   "scripts": {
     "start": "npm install && react-scripts start",
